@@ -1,0 +1,158 @@
+{
+  "environmentList":[
+    {
+      "name":"DEV",
+      "url":"https://portal.dev.gobiogeneva.com/",
+      "user":[
+        {
+          "type":"Admin",
+          "username":"Smacdonald",
+          "password":"GenevaWorld2019",
+          "id":"1000014041"
+        },
+        {
+          "type":"User1",
+          "username":"ivangenevatest@genevahealthsolutions.com",
+          "password":"GenevaGeneva2019",
+          "id":"2019550008"
+        },
+        {
+          "type":"User2",
+          "username":"bavikati3",
+          "password":"Cardionet1219",
+          "id":"11857402"
+        },
+        {
+          "type":"AUTO_USER1",
+          "username":"automationuser1",
+          "firstName": "Automation",
+          "lastName": "User 1",
+          "password":"GenevaWorld2021",
+          "id":"5000000008"
+        },
+        {
+          "type":"AUTO_USER2",
+          "username":"automationuser2",
+          "firstName": "Automation",
+          "lastName": "User 2",
+          "password":"GenevaWorld2021",
+          "id":"5000000009"
+        },
+        {
+          "type":"AUTO_USER3",
+          "username":"automationuser3",
+          "firstName": "Automation",
+          "lastName": "User 3",
+          "password":"GenevaWorld2021",
+          "id":"5000000010"
+        },
+        {
+          "type":"AUTO_USER4",
+          "username":"automationuser4",
+          "firstName": "Automation",
+          "lastName": "User 4",
+          "password":"GenevaWorld2021",
+          "id":"5000000011"
+        },
+        {
+          "type":"AUTO_USER5",
+          "username":"automationuser5",
+          "firstName": "Automation",
+          "lastName": "User 5",
+          "password":"GenevaWorld2021",
+          "id":"5000000012"
+        },
+        {
+          "type":"AUTO_USER6",
+          "username":"automationuser6",
+          "firstName": "Automation",
+          "lastName": "User 6",
+          "password":"GenevaWorld2021",
+          "id":"7006723338"
+        },
+        {
+          "type":"AUTO_USER7",
+          "username":"automationuser7",
+          "firstName": "Automation",
+          "lastName": "User 7",
+          "password":"GenevaWorld2021",
+          "id":"7006723338"
+        }
+      ]
+    },
+    {
+      "name":"TEST",
+      "url":"https://portal.test.gobiogeneva.com/",
+      "user":[
+        {
+          "type":"Admin",
+          "username":"Smacdonald",
+          "password":"GenevaWorld2019",
+          "id":"1000014041"
+        },
+        {
+          "type":"User2",
+          "username":"bavikati3",
+          "password":"Cardionet1219",
+          "id":"11857402"
+        },
+        {
+          "type":"AUTO_USER1",
+          "username":"automationuser1.test@gobio.com",
+          "firstName": "Automationuser1",
+          "lastName": "Test",
+          "password":"GenevaWorld2022",
+          "id":"7006730401"
+        },
+        {
+          "type":"AUTO_USER2",
+          "username":"automationuser2.test@gobio.com",
+          "firstName": "Automationuser2",
+          "lastName": "Test",
+          "password":"GenevaWorld2022",
+          "id":"7006730402"
+        },
+        {
+          "type":"AUTO_USER3",
+          "username":"automationuser3.test@gobio.com",
+          "firstName": "Automationuser3",
+          "lastName": "Test",
+          "password":"GenevaWorld2022",
+          "id":"7006730403"
+        },
+        {
+          "type":"AUTO_USER4",
+          "username":"automationuser4.test@gobio.com",
+          "firstName": "Automationuser4",
+          "lastName": "Test",
+          "password":"GenevaWorld2022",
+          "id":"7006730404"
+        },
+        {
+          "type":"AUTO_USER5",
+          "username":"automationuser5.test@gobio.com",
+          "firstName": "Automationuser5",
+          "lastName": "Test",
+          "password":"GenevaWorld2022",
+          "id":"7006730405"
+        },
+        {
+          "type":"AUTO_USER6",
+          "username":"automationuser6.test@gobio.com",
+          "firstName": "Automationuser6",
+          "lastName": "Test",
+          "password":"GenevaWorld2022",
+          "id":"7006730406"
+        },
+        {
+          "type":"AUTO_USER7",
+          "username":"automationuser7.test@gobio.com",
+          "firstName": "Automationuser7",
+          "lastName": "Test",
+          "password":"GenevaWorld2022",
+          "id":"7006730407"
+        }
+      ]
+    }
+  ]
+}

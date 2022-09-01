@@ -1,0 +1,7 @@
+UI Test
+Bueno en este caso escogi Selenium para hacer el trabajo con java ya que es lo que más utilizo en el día a día. Tambien se uso TestNg
+
+API Test
+Se uso Karate, es mi primera vez usando Karate, pero es facil de entender e implementar, veo que se pueden hacer muchas cosas como ejecuciones en paralelo entre otras cosas, y me gusta su sintaxis facil de entender. 
+
+Ambos tests estan en el mismo proyecto, se uso Intellij como IDE con Maven para el manejo de dependencias.
